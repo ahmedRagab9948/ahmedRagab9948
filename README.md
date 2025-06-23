@@ -9,7 +9,7 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 
 
 <br/> <br/> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-🧐 About Me:
+<h3>🧐 About Me:</h3>
 
 🎓 CS Graduate from Benha University, Faculty of Science
 
