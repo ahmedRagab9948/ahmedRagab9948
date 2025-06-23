@@ -9,7 +9,7 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 
 🎓 CS Graduate from Benha University, Faculty of Science
 
-💻 Currently developing a Movie Web App with filtering, details routing, and API integration
+💻 Currently developing a Movie Web App with filtering, details routing, and       API integration
 
 📚 Learning more about advanced React patterns and clean UI practices
 
