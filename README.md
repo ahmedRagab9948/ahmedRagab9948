@@ -20,6 +20,7 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 📝 Working on my portfolio – coming soon!
 
 <br>
+
 🔧 Tech Stack & Tools:
 
 <a href="#"><img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/></a>
@@ -32,7 +33,9 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 <a href="#"><img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40"/></a>
 
 <br/>
+
 📊 GitHub Stats:
+
 <br/>
 
 🚀 Projects:
