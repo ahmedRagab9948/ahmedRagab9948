@@ -52,7 +52,7 @@ Frontend Developer specializing in building responsive, interactive, and clean w
     </td>
   </tr>
   <tr>
-    <td width="100%">
+    <td>
       <img src="https://streak-stats.demolab.com?user=ahmedRagab9948&theme=react&hide_border=true" height="180"/>
     </td>
   </tr>
