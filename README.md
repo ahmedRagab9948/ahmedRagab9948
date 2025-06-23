@@ -25,7 +25,7 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 <br>
 
 
-🔧 Tech Stack & Tools:
+<h3>🔧 Tech Stack & Tools:</h3>
 
 <a href="#"><img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/></a>
 <a href="#"><img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/></a>
@@ -40,7 +40,7 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 
 <br/>
 
-📊 GitHub Stats:
+<h3>📊 GitHub Stats:</h3>
 
 <table>
   <tr>
@@ -59,7 +59,7 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 </table>
 <br/>
 
-🚀 Projects:
+<h3>🚀 Projects:</h3>
 
 🎬 Movie App – React-based application displaying trending, popular, and top-rated movies with a detailed UI and search functionality.
 
