@@ -9,6 +9,7 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 
 
 <br/> <br/> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 <h3>🧐 About Me:</h3>
 
 🎓 CS Graduate from Benha University, Faculty of Science
@@ -27,6 +28,7 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 
 <h3>🔧 Tech Stack & Tools:</h3>
 
+
 <a href="#"><img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/></a>
 <a href="#"><img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/></a>
 <a href="#"><img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/></a>
@@ -41,6 +43,7 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 <br/>
 
 <h3>📊 GitHub Stats:</h3>
+
 
 <table>
   <tr>
