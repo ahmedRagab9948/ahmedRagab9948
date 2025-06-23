@@ -6,6 +6,7 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 
 <br/> <br/> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 🧐 About Me:
+
 🎓 CS Graduate from Benha University, Faculty of Science
 
 💻 Currently developing a Movie Web App with filtering, details routing, and API integration
@@ -20,6 +21,7 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 
 <br>
 🔧 Tech Stack & Tools:
+
 <a href="#"><img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/></a>
 <a href="#"><img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/></a>
 <a href="#"><img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/></a>
@@ -31,10 +33,10 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 
 <br/>
 📊 GitHub Stats:
-
-
 <br/>
+
 🚀 Projects:
+
 🎬 Movie App – React-based application displaying trending, popular, and top-rated movies with a detailed UI and search functionality.
 
 👨‍💻 Academic Advising System – Graduation project using PHP, MySQL, HTML, CSS, and jQuery to help students manage academic paths.
