@@ -22,14 +22,11 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 📫 You can connect with me on <a href="https://ar3588525@gmail.com" target="_blank"> Gmail </a>
 
 📝 Working on my portfolio – coming soon!
-
 <br>
 🔧 Tech Stack & Tools:
 
 <a href="#"><img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/></a>
-
 <a href="#"><img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/></a>
-
 <a href="#"><img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/></a>
 <a href="#"><img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/></a>
 <a href="#"><img alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40"/></a>
