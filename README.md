@@ -42,8 +42,16 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 
 📊 GitHub Stats:
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedRagab9948&show_icons=true&theme=react)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedRagab9948&layout=compact&theme=react)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ahmedRagab9948&show_icons=true&theme=react" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedRagab9948&layout=compact&theme=react" height="180"/>
+    </td>
+  </tr>
+</table>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ahmedRagab9948&theme=react&hide_border=true)](https://git.io/streak-stats)
 
