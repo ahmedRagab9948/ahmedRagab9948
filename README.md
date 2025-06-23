@@ -57,10 +57,6 @@ Frontend Developer specializing in building responsive, interactive, and clean w
     </td>
   </tr>
 </table>
-
-
-
-
 <br/>
 
 🚀 Projects:
