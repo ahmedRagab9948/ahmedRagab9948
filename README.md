@@ -1,7 +1,8 @@
 👋 Hey, I'm Ahmed Ragab!
 
-<a href="https://www.linkedin.com/in/ahmedragabdev/" target="_blank"> <img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/> </a>
 Frontend Developer specializing in building responsive, interactive, and clean web interfaces using React, JavaScript, HTML, CSS, and PHP. I'm passionate about turning ideas into reality and continuously learning new technologies.
+
+<a href="https://www.linkedin.com/in/ahmedragabdev/" target="_blank"> <img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/> </a>
 
 <br/> <br/> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 🧐 About Me:
