@@ -19,7 +19,9 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 
 🤝 Open to collaborating on open-source or freelance frontend projects
 
-📫 You can connect with me on LinkedIn
+📫 You can connect with me on <a href="https://ar3588525@gmail.com" target="_blank">
+  Gmail
+</a>
 
 📝 Working on my portfolio – coming soon!
 
