@@ -3,7 +3,7 @@
 Frontend Developer specializing in building responsive, interactive, and clean web interfaces using React, JavaScript, HTML, CSS, and PHP. I'm passionate about turning ideas into reality and continuously learning new technologies.
 
 <a href="https://www.linkedin.com/in/ahmed-ragab-299466228" target="_blank"> <img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/> </a>
-<a href="https://twitter.com/ahmedragabdev" target="_blank">
+<a href="https://x.com/AhmedRa18094512" target="_blank">
   <img align="left" alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height="18px"/>
 </a>
 
