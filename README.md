@@ -24,6 +24,7 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 📝 Working on my portfolio – coming soon!
 <br>
 
+
 🔧 Tech Stack & Tools:
 
 <a href="#"><img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/></a>
@@ -40,6 +41,12 @@ Frontend Developer specializing in building responsive, interactive, and clean w
 <br/>
 
 📊 GitHub Stats:
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRagab404&show_icons=true&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRagab404&layout=compact&theme=react)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedRagab404&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 
